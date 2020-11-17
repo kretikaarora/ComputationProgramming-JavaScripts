@@ -1,5 +1,3 @@
-//const { Console } = require('console');
-
 ///console read write module is requires for taking input from the user
 io= require('console-read-write');
 ///we are declaring the function as async 
